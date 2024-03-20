@@ -27,10 +27,20 @@
 
 // Objects
 
-let myobj = {
-    name:'Hulk',
-    color:'Green',
-    power:'Anger'
-}
+// let myobj = {
+//     name:'Hulk',
+//     color:'Green',
+//     power:'Anger'
+// }
 
-console.table(myobj);
+// console.table(myobj);
+
+// // const myfunction = function (){
+// //     console.log(typeof myobj);
+// // }
+// const myfunction = function (){
+//     console.log('Hey Ninja');
+// }
+
+// myfunction();
+
